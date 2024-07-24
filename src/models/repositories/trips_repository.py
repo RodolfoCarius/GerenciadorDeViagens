@@ -1,5 +1,4 @@
 from typing import Dict, Tuple
-
 from sqlite3 import Connection
 
 class TripsRepository:
